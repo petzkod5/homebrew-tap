@@ -1,6 +1,6 @@
 cask "jobsdone" do
-  version "1.4.0"
-  sha256 "def988c36d3f2ea0c05e2a7ba51a255f9c1d1fec3b88747d742db5dca6319bbd"
+  version "1.5.0"
+  sha256 "e32d572f3feb297da480265614924444f8052a10a552337e846a4c28b57a3883"
 
   url "https://github.com/petzkod5/JobsDone/releases/download/v#{version}/JobsDone-#{version}-universal.zip"
   name "Job’s Done"
